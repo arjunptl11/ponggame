@@ -7,4 +7,4 @@ A simple Pong game in Python using the turtle module.
 - Player B: Up Arrow (up), Down Arrow (down)
 
 ## How to Run:
-python pong.py
+python PONGGAME.py
